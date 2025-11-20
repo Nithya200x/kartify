@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931678733348",
+    "project_id": "kartify-57899",
+    "storage_bucket": "kartify-57899.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931678733348:android:7218e5d7726088864904b1",
+        "android_client_info": {
+          "package_name": "com.example.kartify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9V-y4SAlbhY4NXhL3_nQsRypJGT1Cb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
